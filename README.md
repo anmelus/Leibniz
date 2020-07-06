@@ -1,5 +1,5 @@
 # Leibniz
-Code using the leibniz formula to calculate the value of π.
+Simple script using the leibniz formula to calculate the value of π.
 For additional information on Leibniz's formula for π and the accompanying proof, see this [Wiki](https://en.wikipedia.org/wiki/Leibniz_formula_for_%CF%80) article. 
 
 Run with any software that can run C code.
