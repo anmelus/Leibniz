@@ -1,2 +1,2 @@
 # Leibniz
-Code using the leibniz formula to calculate the value of pi
+Code using the leibniz formula to calculate the value of π.
