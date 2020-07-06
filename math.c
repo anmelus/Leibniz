@@ -2,6 +2,7 @@
 
 int main()
 {
+    ```
     double x;
     double answer=0;                   // Return value
     double holder;                     // Holds the value (1/x)
@@ -24,4 +25,5 @@ int main()
     printf("%6lf", answer);
     // Answer is rounded up
     return answer;
+    ```
 }
